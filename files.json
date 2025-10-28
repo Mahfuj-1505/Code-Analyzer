@@ -1,0 +1,261 @@
+{
+  "repo_url": "https://github.com/Mahfuj-1505/SPL_Evaluator.git",
+  "repo_owners": [
+    "Mahfuj-1505",
+    "Mahfuj's Laptop"
+  ],
+  "files": [
+    {
+      "path": "frontend/eslint.config.js",
+      "lines": 29,
+      "owner_contribution": 1.0,
+      "extension": ".js",
+      "language": "javascript",
+      "functions": [],
+      "classes": [],
+      "variables": []
+    },
+    {
+      "path": "backend/model_server.py",
+      "lines": 89,
+      "owner_contribution": 1.0,
+      "extension": ".py",
+      "language": "python",
+      "functions": [
+        "get_response"
+      ],
+      "classes": [],
+      "variables": [
+        "BOT_NAME",
+        "USER_NAME",
+        "msg",
+        "greetings",
+        "responses",
+        "now",
+        "jokes",
+        "default_responses"
+      ]
+    },
+    {
+      "path": "frontend/index.html",
+      "lines": 13,
+      "owner_contribution": 1.0,
+      "extension": ".html",
+      "language": "unknown",
+      "functions": [],
+      "classes": [],
+      "variables": []
+    },
+    {
+      "path": "backend/gemini_server.py",
+      "lines": 19,
+      "owner_contribution": 1.0,
+      "extension": ".py",
+      "language": "python",
+      "functions": [
+        "get_response"
+      ],
+      "classes": [],
+      "variables": [
+        "GEMINI_API_KEY",
+        "model",
+        "response"
+      ]
+    },
+    {
+      "path": "frontend/src/App.jsx",
+      "lines": 8,
+      "owner_contribution": 1.0,
+      "extension": ".jsx",
+      "language": "javascript",
+      "functions": [
+        "App"
+      ],
+      "classes": [],
+      "variables": [
+        "App"
+      ]
+    },
+    {
+      "path": "frontend/src/components/AddFruit.jsx",
+      "lines": 27,
+      "owner_contribution": 1.0,
+      "extension": ".jsx",
+      "language": "javascript",
+      "functions": [
+        "AddFruitForm",
+        "handleSubmit"
+      ],
+      "classes": [],
+      "variables": [
+        "AddFruitForm",
+        "handleSubmit"
+      ]
+    },
+    {
+      "path": "backend/main.py",
+      "lines": 48,
+      "owner_contribution": 1.0,
+      "extension": ".py",
+      "language": "python",
+      "functions": [
+        "chat",
+        "root"
+      ],
+      "classes": [
+        "ChatRequest"
+      ],
+      "variables": [
+        "app",
+        "allow_origins",
+        "allow_credentials",
+        "allow_methods",
+        "allow_headers",
+        "response",
+        "port"
+      ]
+    },
+    {
+      "path": "frontend/src/api.js",
+      "lines": 6,
+      "owner_contribution": 1.0,
+      "extension": ".js",
+      "language": "javascript",
+      "functions": [],
+      "classes": [],
+      "variables": [
+        "api"
+      ]
+    },
+    {
+      "path": "package.json",
+      "lines": 7,
+      "owner_contribution": 1.0,
+      "extension": ".json",
+      "language": "unknown",
+      "functions": [],
+      "classes": [],
+      "variables": []
+    },
+    {
+      "path": "frontend/src/components/ChatBox.jsx",
+      "lines": 269,
+      "owner_contribution": 1.0,
+      "extension": ".jsx",
+      "language": "javascript",
+      "functions": [
+        "ChatBox",
+        "scrollToBottom",
+        "handleResize",
+        "typeText",
+        "handleSubmit"
+      ],
+      "classes": [],
+      "variables": [
+        "ChatBox",
+        "messagesEndRef",
+        "textareaRef",
+        "scrollToBottom",
+        "handleResize",
+        "typeText",
+        "index",
+        "interval",
+        "handleSubmit",
+        "userMessage",
+        "res",
+        "data",
+        "responseText",
+        "aiMessage",
+        "errorText"
+      ]
+    },
+    {
+      "path": "frontend/package.json",
+      "lines": 29,
+      "owner_contribution": 1.0,
+      "extension": ".json",
+      "language": "unknown",
+      "functions": [],
+      "classes": [],
+      "variables": []
+    },
+    {
+      "path": "frontend/src/App.css",
+      "lines": 56,
+      "owner_contribution": 1.0,
+      "extension": ".css",
+      "language": "unknown",
+      "functions": [],
+      "classes": [],
+      "variables": []
+    },
+    {
+      "path": "frontend/src/components/Fruits.jsx",
+      "lines": 43,
+      "owner_contribution": 1.0,
+      "extension": ".jsx",
+      "language": "javascript",
+      "functions": [
+        "FruitList",
+        "fetchFruits",
+        "addFruit"
+      ],
+      "classes": [],
+      "variables": [
+        "FruitList",
+        "fetchFruits",
+        "response",
+        "addFruit"
+      ]
+    },
+    {
+      "path": "frontend/src/components/ChatBox.css",
+      "lines": 509,
+      "owner_contribution": 1.0,
+      "extension": ".css",
+      "language": "unknown",
+      "functions": [],
+      "classes": [],
+      "variables": []
+    },
+    {
+      "path": "frontend/src/index.css",
+      "lines": 82,
+      "owner_contribution": 1.0,
+      "extension": ".css",
+      "language": "unknown",
+      "functions": [],
+      "classes": [],
+      "variables": []
+    },
+    {
+      "path": "frontend/src/main.jsx",
+      "lines": 10,
+      "owner_contribution": 1.0,
+      "extension": ".jsx",
+      "language": "javascript",
+      "functions": [],
+      "classes": [],
+      "variables": []
+    },
+    {
+      "path": "frontend/vite.config.js",
+      "lines": 7,
+      "owner_contribution": 1.0,
+      "extension": ".js",
+      "language": "javascript",
+      "functions": [],
+      "classes": [],
+      "variables": []
+    }
+  ],
+  "stats": {
+    "total_files_scanned": 17,
+    "excluded_by_hard_filter": 0,
+    "excluded_by_gitignore": 0,
+    "excluded_generated": 0,
+    "excluded_not_owner_modified": 0,
+    "excluded_wrong_extension": 0,
+    "user_code_files": 17
+  }
+}
